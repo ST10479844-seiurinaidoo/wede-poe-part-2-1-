@@ -92,3 +92,22 @@ In part 1 of this POE, I have recieved some feedback from my lecturer about what
 -ReadMe on GITHUB
 -Changelog (Included in my ReadMe file)
 -An updated list o freferences
+
+### 2025-08-24
+#### Initial Version Released
+- First release of the Green Pulse Solar Solutions Website.  
+- Homepage with company introduction and highlights.  
+- Services section showcasing what Green Pulse has to offer.  
+- Sustainability section outlining benefits of solar energy.  
+- Contact form for enquiries and quote requests.  
+- Responsive design built with Grid and Flexbox.  
+- Consistent eco-friendly theme, colors, and typography.
+
+### 2025-09-21  
+#### CSS Files Added  
+- Created main stylesheet for overall website styling.  
+- Applied eco-friendly color scheme across all sections.  
+- Implemented responsive layout using CSS Grid and Flexbox.  
+- Added typography styles for headings, paragraphs, and navigation.  
+- Styled buttons, forms, and interactive elements for consistency.  
+- Included media queries to ensure compatibility with mobile, tablet,  and desktop.
